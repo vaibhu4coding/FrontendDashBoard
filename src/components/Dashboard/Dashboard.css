@@ -1,0 +1,18 @@
+.dashboard {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .sidebar {
+    width: 20%;
+  }
+  
+  .main {
+    width: 55%;
+  }
+  
+  .right {
+    width: 25%;
+  }
+  
+  
